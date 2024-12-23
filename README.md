@@ -1,5 +1,16 @@
 # Modern Assault Defense
 
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <img width="100%" alt="gif1" src="https://github.com/NathanaelC1/TowerDefense/blob/main/TowerDefenseGif2.gif">
+    </td>
+    <td align="right" width="50%">
+      <img width="100%" alt="gif2" src="https://github.com/NathanaelC1/TowerDefense/blob/main/TowerDefenseGIF3.gif">
+    </td>
+  </tr>
+</table>
+
 ## 📖 Table of Contents
 1. [Features](#-scripts-and-features)
 2. [About](#-about)
