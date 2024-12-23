@@ -41,7 +41,7 @@ Modern Assault Defense is a unique tower defense game that challenges players wi
 ---
 
 ## 👤 Developer
-- Nathanael Chendra Rusli (Game Programmer)
+- Nathanael Chendra Rusli
 <br>
 
 ## 📂 Files description
