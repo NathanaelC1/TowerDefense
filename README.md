@@ -8,7 +8,7 @@
 5. [Files Description](#-files-description)
 6. [Assets Link](#-assets-link)
 
-##  📜Scripts and Features
+##  📜 Scripts and Features
 
 |  Script           | Description                                                     |
 | ------------------ | --------------------------------------------------------------- |
@@ -40,11 +40,11 @@ Modern Assault Defense is a unique tower defense game that challenges players wi
 
 ---
 
-## 👤Developer
+## 👤 Developer
 - Nathanael Chendra Rusli (Game Programmer)
 <br>
 
-## 📂Files description
+## 📂 Files description
 
 ```
 ├── TowerDefense                      # Contain everything needed for Modern Assault Defense to works.
@@ -59,7 +59,7 @@ Modern Assault Defense is a unique tower defense game that challenges players wi
    ├── Project Settings               # Contains the configuration of your game to control the quality settings, icon, or even the cursor settings
 ```
 
-## 🌏Assets Link
+## 🌏 Assets Link
 - https://zintoki.itch.io/ground-shaker
 - https://trevor-pupkin.itch.io/tech-dungeon-roguelite
 - https://www.1001fonts.com/download/airobotech.zip
