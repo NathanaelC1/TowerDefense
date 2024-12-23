@@ -6,6 +6,7 @@
 3. [Play Game](#-play-game)
 4. [Developer](#-developer)
 5. [Files Description](#-files-description)
+6. [Assets Link](#-assets-link)
 
 ##  📜Scripts and Features
 
@@ -59,9 +60,9 @@ Modern Assault Defense is a unique tower defense game that challenges players wi
 ```
 
 ## 🌏Assets Link
-https://zintoki.itch.io/ground-shaker
-https://trevor-pupkin.itch.io/tech-dungeon-roguelite
-https://www.1001fonts.com/download/airobotech.zip
+- https://zintoki.itch.io/ground-shaker
+- https://trevor-pupkin.itch.io/tech-dungeon-roguelite
+- https://www.1001fonts.com/download/airobotech.zip
 <br>
 
 <br>
